@@ -1,0 +1,11 @@
+Nama	: Arif Munawar
+NIM	: A11.2019.11693
+Kelompok: A11.4508
+
+
+Cube -> Component=Transform, Cube(mesh filter), Mesh Renderer, Box Collider, Default-Material (Material)
+Shere -> Component=Transform, Sphere (Mesh Filter), Mesh Renderer, Sphere Collider, Default-Material (Material)
+Capsule -> Component=Transform, Capsule (Mesh Filter), Mesh Renderer, Capsule Collider, Default-Material (Material)
+Cylinder -> Component=Transform, Cylinder (Mesh Filter), Mesh Renderer, Capsule Collider, Default-Material (Material)
+Qued -> Component=Transform, Qued (Mesh Filter), Mesh Renderer, Mesh Collider, Default-Material (Material)
+Plane -> Component=Transform, Plane (Mesh Filter), Mesh Renderer, Mesh Collider, Default-Material (Material)
